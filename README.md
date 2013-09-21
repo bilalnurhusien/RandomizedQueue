@@ -2,7 +2,7 @@ RandomizedQueue
 ===============
 
 A randomized queue is similar to a stack or queue, except that the item removed is chosen 
-uniformly at random from items in the data structure. It implements the following API:
+uniformly at random from items in the data structure. I implemented the following API:
 
     public class RandomizedQueue<Item> implements Iterable<Item> {
     
